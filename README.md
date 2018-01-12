@@ -3,6 +3,7 @@ Predicting Ethereum Prices using a LSTM Recurrent Network
 
 
 Akhil Dalal (me)
+
 Carolyne Pelletier (github.com/k1c)
 
 Tested on: Windows 10

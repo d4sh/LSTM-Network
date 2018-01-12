@@ -1,9 +1,9 @@
 # LSTM-Recurrent-Network
 Predicting Ethereum Prices using a LSTM Recurrent Network
 
-Carolyne Pelletier (github.com/k1c)
 
-Akhil Dalal
+Akhil Dalal (me)
+Carolyne Pelletier (github.com/k1c)
 
 Tested on: Windows 10
 
